@@ -37,3 +37,9 @@ body {
       border-bottom: 2px solid #c20000;
       box-shadow: none;
 }
+
+.container {
+    margin-top: 40px;
+    max-width: 1280px;
+    width: 50%;
+  }
