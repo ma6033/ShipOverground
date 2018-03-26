@@ -1,6 +1,6 @@
-body {
-    /* min-height: 200vh; */
-}
+/*body {
+     min-height: 200vh;
+}*/
 
 .logo {
     font-weight: 300;
@@ -42,4 +42,12 @@ body {
 
 .creation {
     background: #b71c1c;
+}
+
+h1.formHeading {
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
 }
